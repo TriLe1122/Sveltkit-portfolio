@@ -7,7 +7,7 @@
 let randomProp = 'Prop'
 </script>
 
-<Navbar {randomProp}/>
+<Navbar {randomProp} />
 <main class=" h-screen" >
 	<slot />
 </main>
